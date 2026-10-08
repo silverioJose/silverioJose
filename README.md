@@ -1,5 +1,5 @@
 ## José Silvério 
-<h3>Tecnólogo em Analise e Desenvolvimento de Sistemas (5/6)</h3>
+<h3>Tecnólogo em Analise e Desenvolvimento de Sistemas (6/6)</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,c,html,css,js,php" />
 
